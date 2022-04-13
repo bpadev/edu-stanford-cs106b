@@ -70,5 +70,11 @@ int main() {
 
 
 /* 1.7 Expressions
+ - the operation of discarding a decimal fraction is called truncation.
+ - you can convert one type to another using what is called a type cast.
+*/
+
+
+/* 1.8 Statements
  - 
 */
