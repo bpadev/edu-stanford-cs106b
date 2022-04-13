@@ -44,6 +44,31 @@ int main() {
  const double PI = 3.14
 */
 
+
 /* 1.6 Data types
+ - a data type is defined by two properties: a domain, which is the set of values that belong to that type, and a set of operations, which defines the behavior of that type.
+ - five types of atomic or primitive types: integer, floating-point, Boolean, character, and enumerated types.
+ - the ability to move a program between different machines is called portability.
+ unsigned int health = 100; no negatives
+ - numbers that include a decimal fraction are called floating-point numbers, which are used to approximate real numbers in mathematics. (float, double and long double) 
+ char
+ - a sequence of characters is called a string.
+ #include <string>
+ - C++ allows you to define new types by listing the elements in their domain. Such types are called enumerated types
+ enum typename { namelist };
+ - typename is the name of the new type and namelist is a list of the constants in the domain, separated by commas.
+ enum Direction { NORTH, EAST, SOUTH, WEST };
+ enum Month {
+	 PENNY = 1,
+	 NICKEL = 5,
+	 DIME = 10,
+	 QUARTER = 25,
+	 HALF_DOLLAR = 50,
+	 DOLLAR = 100
+ };
+*/
+
+
+/* 1.7 Expressions
  - 
 */
