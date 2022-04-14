@@ -76,5 +76,16 @@ int main() {
 
 
 /* 1.8 Statements
+ - the most common statement in C++ is the simple statement.
+ expression;
+ - blocks are sometimes referred to as compound statements.
+ {
+	 statement1
+	 statement2
+	 ...
+	 statementn
+ }
+ - if statements
+ - switch statements
  - 
 */
